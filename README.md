@@ -1,2 +1,4 @@
 # firstproject
-firstproject
+
+* apple
+* banana
